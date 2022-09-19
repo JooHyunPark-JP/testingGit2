@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        //Initial commits testing
+        //Initial commits testing/ now i am in developer
 
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
