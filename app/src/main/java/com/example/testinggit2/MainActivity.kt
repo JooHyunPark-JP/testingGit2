@@ -21,6 +21,8 @@ class MainActivity : AppCompatActivity() {
 
         //Initial commits testing/ now i am in learning branch
 
+        //Another work here.
+
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
