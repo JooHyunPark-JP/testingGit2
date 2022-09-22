@@ -24,7 +24,6 @@ class MainActivity : AppCompatActivity() {
 
         //44444
 
-        // need to hot fix for thisssssssssssssssssssss.
 
         setSupportActionBar(binding.toolbar)
 
